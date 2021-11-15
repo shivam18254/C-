@@ -1,0 +1,15 @@
+C:\Users\shivam.chauhan\source\repos\Dependency pp\Dependency pp\bin\Debug\Dependency pp.exe.config
+C:\Users\shivam.chauhan\source\repos\Dependency pp\Dependency pp\bin\Debug\Dependency pp.exe
+C:\Users\shivam.chauhan\source\repos\Dependency pp\Dependency pp\bin\Debug\Dependency pp.pdb
+C:\Users\shivam.chauhan\source\repos\Dependency pp\Dependency pp\obj\Debug\Dependency pp.csproj.AssemblyReference.cache
+C:\Users\shivam.chauhan\source\repos\Dependency pp\Dependency pp\obj\Debug\MainWindow.g.cs
+C:\Users\shivam.chauhan\source\repos\Dependency pp\Dependency pp\obj\Debug\App.g.cs
+C:\Users\shivam.chauhan\source\repos\Dependency pp\Dependency pp\obj\Debug\Dependency pp_MarkupCompile.cache
+C:\Users\shivam.chauhan\source\repos\Dependency pp\Dependency pp\obj\Debug\Dependency pp_MarkupCompile.lref
+C:\Users\shivam.chauhan\source\repos\Dependency pp\Dependency pp\obj\Debug\MainWindow.baml
+C:\Users\shivam.chauhan\source\repos\Dependency pp\Dependency pp\obj\Debug\Dependency pp.g.resources
+C:\Users\shivam.chauhan\source\repos\Dependency pp\Dependency pp\obj\Debug\Dependency_pp.Properties.Resources.resources
+C:\Users\shivam.chauhan\source\repos\Dependency pp\Dependency pp\obj\Debug\Dependency pp.csproj.GenerateResource.cache
+C:\Users\shivam.chauhan\source\repos\Dependency pp\Dependency pp\obj\Debug\Dependency pp.csproj.CoreCompileInputs.cache
+C:\Users\shivam.chauhan\source\repos\Dependency pp\Dependency pp\obj\Debug\Dependency pp.exe
+C:\Users\shivam.chauhan\source\repos\Dependency pp\Dependency pp\obj\Debug\Dependency pp.pdb
